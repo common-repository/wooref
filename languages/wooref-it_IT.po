@@ -1,0 +1,95 @@
+# Copyright (C) 2017 WooRef
+# This file is distributed under the same license as the WooRef package.
+msgid ""
+msgstr ""
+"Project-Id-Version: WooRef 1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wooref\n"
+"POT-Creation-Date: 2017-10-09 11:00:12+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-10-12 14:16+0200\n"
+"Last-Translator: Leo Pizzolante <leo@pizzolante.biz>\n"
+"Language-Team: \n"
+"Language: it_IT\n"
+"X-Generator: Poedit 2.0.4\n"
+
+#. Plugin Name of the plugin/theme
+#: wooref.php:58 wooref.php:59
+msgid "WooRef"
+msgstr ""
+
+#: wooref.php:75
+msgid "WooRef - Configuration"
+msgstr "WooRef - Configurazione"
+
+#: wooref.php:81
+msgid "Enable track"
+msgstr "Abilita il tracciamento"
+
+#: wooref.php:84
+msgid "Record incoming visits"
+msgstr "Registra le visite in ingresso"
+
+#: wooref.php:88
+msgid "Cookie Expiration (days)"
+msgstr "Scadenza Cookie (giorni)"
+
+#: wooref.php:92
+msgid "Track WooCommerce (admin)"
+msgstr "Traccia WooCommerce (admin)"
+
+#: wooref.php:95
+msgid "Displays the referral in the order summary mail for the administrator"
+msgstr ""
+"Visualizza il referral nella mail di riepilogo ordine per l'amministratore"
+
+#: wooref.php:99
+msgid "Track WooCommerce (user)"
+msgstr "Traccia WooCommerce (utente)"
+
+#: wooref.php:102
+msgid "Displays the referral in the order summary mail for the user"
+msgstr "Visualizza il referral nella mail di riepilogo ordine per l'utente"
+
+#: wooref.php:144
+msgid "Referral"
+msgstr "Referente"
+
+#: wooref.php:162 wooref.php:165
+msgid "Referral:"
+msgstr "Referente:"
+
+#: wooref.php:173
+msgid "Make a donation!"
+msgstr "Fai una donazione!"
+
+#: wooref.php:200
+msgid "WooRef cannot trace orders as WooCommerce seems to be disabled."
+msgstr ""
+"WooRef non può tracciare gli ordini poichè WooCommerce sembra essere "
+"disabilitato."
+
+#: wooref.php:208
+msgid ""
+"WooRef does not seem active. You will not receive notification about the "
+"origin of your orders."
+msgstr ""
+"WooRef sembra essere non attivo. Non riceverai notifiche sulll&apos;origine "
+"dei tuoi ordini."
+
+#. Description of the plugin/theme
+msgid ""
+"WooRef is a Wordpress plugin that allows you to view and track WooCommerce "
+"sales comes from any referral site."
+msgstr ""
+"WooRef è un plugin per Wordpress che ti consente di visualizzare e tracciare "
+"le vendite di WooCommerce provenienti da qualsiasi sito esterno."
+
+#. Author of the plugin/theme
+msgid "Leo Pizzolante"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.pizzolante.biz"
+msgstr ""
